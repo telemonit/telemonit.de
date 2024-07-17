@@ -1,0 +1,11 @@
+title: "telemonit.de "
+description: "Sprachbenachrichtigungen über Ereignisse und Objekte von Überwachungskameras"
+mermaid:
+  src: "mermaid.js"
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-readme-index"
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
